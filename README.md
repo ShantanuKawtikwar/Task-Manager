@@ -55,6 +55,19 @@ python main.py
 ```
 http://127.0.0.1:5000/
 ```
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](https://github.com/ShantanuKawtikwar/Task-Manager/blob/main/Screenshots/Homepage.jpg)
+
+---
+
+### Tasks Added Section
+![Tasks Added Screenshot](https://github.com/ShantanuKawtikwar/Task-Manager/blob/main/Screenshots/Tasks%20added.jpg)
+
+---
 ## ⭐ Future Updates
 
 • Web version using Flask

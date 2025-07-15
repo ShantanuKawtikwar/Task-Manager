@@ -1,2 +1,62 @@
-# Task-Manager
-This is simple python flask based web application..
+# 📝 Task Manager Application (Flask + HTML)
+
+A simple and user-friendly **Task Manager Web Application** built using **Flask (Python)** for the backend and **HTML** for the frontend. This project is ideal for beginners who want to learn basic CRUD operations in web development using Flask.
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- 📋 View all tasks
+- ✏️ Update tasks
+- ❌ Delete tasks
+- 🗂️ Tasks displayed in a clean web interface
+- 💾 Data stored in-memory (or in file if extended)
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Project Structure
+---
+
+## ▶️ How to Run
+
+1. **Clone the repository**:
+```
+git clone https://github.com/ShantanuKawtikwar/task-manager.git
+cd task_manager
+```
+2. **Install dependencies**:
+```
+pip install flask
+```
+3. **Run the Flask app**:
+```
+python main.py
+```
+4.**Access the app in your browser**:
+```
+http://127.0.0.1:5000/
+```
+## ⭐ Future Updates
+
+• Web version using Flask
+
+• Task categories
+
+• Due dates and reminders
+
+## 🪪 Author : Shantanu Kawtikwar 
+
+## Licence: MIT License 
+
+##

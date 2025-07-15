@@ -25,7 +25,15 @@ A simple and user-friendly **Task Manager Web Application** built using **Flask 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure:
+
+📁 task_manager/
+├── 📄 main.py                # Flask backend (main Python file)
+├── 📁 templates/             # HTML files folder (Flask uses this)
+│   └── 📄 index.html         # Main Task Manager webpage
+├── 📄 requirements.txt       # Python dependencies (optional)
+└── 📄 README.md              # Project documentation
+
 ---
 
 ## ▶️ How to Run
